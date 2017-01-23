@@ -1,0 +1,1 @@
+// $.fn.DataTable.isDataTable(".table");
